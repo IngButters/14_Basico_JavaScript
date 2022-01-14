@@ -12,3 +12,10 @@ edad = 30; /* aca se esta inicializando la variable */
 /* varibles mas complejas */
 var elementos = ["Juan", "Pedro", "Maria"];
 
+var persona = {
+    nombre: "Juan",
+    edad: 30
+}
+
+
+
